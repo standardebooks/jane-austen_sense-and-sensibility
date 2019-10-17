@@ -63,8 +63,11 @@
 		<meta property="authority" refines="#subject-11">LCSH</meta>
 		<meta property="term" refines="#subject-11">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description"> LONG_DESCRIPTION </meta>
+		<dc:description id="description">Two sisters take long journeys to love in early nineteenth-century England.</dc:description>
+		<meta id="long-description" property="se:long-description" refines="#description">
+			&lt;p&gt;When her husband dies and leaves his estate to his son from a former marriage, Mrs. Dashwood and her three daughters are offered a cottage on the estate of a distant relative. The two oldest daughters fall in love, only to find that the objects of their affection have secrets that throw their lives into an uproar. The reserved oldest daughter and impetuous, fiery middle daughter will take very different journeys to discovering the true worth of their respective beaus.&lt;/p&gt;
+			&lt;p&gt;Published in 1811, &lt;i&gt;Sense and Sensibility&lt;/i&gt;, was largely written fifteen years earlier, when Austen was approximately the same age as her older protagonist Elinor. It was published anonymously (“By A Lady”), possibly due to propriety, or perhaps because she wanted to avoid any negative publicity if the book was not well-received. She needn’t have worried; it sold out its first printing of a modest 750 copies. She used well-defined characters, humor, and satire to paint a vivid picture of life in the England of George III, with all of its manners, class issues, and unwritten rules of behavior. That it’s still being read over two hundred years later is a testimony to her brilliance.&lt;/p&gt;
+		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/161</dc:source>
 		<dc:source>https://archive.org/details/bub_gb_RtT0OLKFMHsC</dc:source>
