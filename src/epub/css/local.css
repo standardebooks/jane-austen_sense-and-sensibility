@@ -9,6 +9,7 @@
 	font-variant: small-caps;
 }
 
+p[epub|type~="z3998:salutation"] + p,
 p[epub|type~="z3998:salutation"]{
 	text-indent: 0;
 }
@@ -21,4 +22,9 @@ footer{
 [epub|type~="z3998:sender"]{
 	font-variant: small-caps;
 	text-align: right;
+}
+
+[epub|type~="z3998:postscript"]{
+	text-align: left;
+	text-indent: 0;
 }
