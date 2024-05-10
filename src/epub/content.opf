@@ -74,8 +74,8 @@
 		<dc:source>https://www.gutenberg.org/ebooks/161</dc:source>
 		<dc:source>https://archive.org/details/bub_gb_RtT0OLKFMHsC</dc:source>
 		<meta property="se:production-notes">The transcription used ALL CAPS for italics, these all had to be replaced with proper semantics; this meant finding italicized I’s via manual review. The transcription also had a number of punctuation issues, including a heavy overuse of em-dashes, especially in the last third of the book. This needed to be updated to match the scans.</meta>
-		<meta property="se:word-count">120065</meta>
-		<meta property="se:reading-ease.flesch">66.07</meta>
+		<meta property="se:word-count">120067</meta>
+		<meta property="se:reading-ease.flesch">66.17</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Sense_and_Sensibility</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/jane-austen_sense-and-sensibility</meta>
 		<dc:creator id="author">Jane Austen</dc:creator>
