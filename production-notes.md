@@ -1,0 +1,1 @@
+The transcription used ALL CAPS for italics, these all had to be replaced with proper semantics; this meant finding italicized I’s via manual review. The transcription also had a number of punctuation issues, including a heavy overuse of em-dashes, especially in the last third of the book. This needed to be updated to match the scans.
